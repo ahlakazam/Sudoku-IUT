@@ -2,6 +2,8 @@
 1385320478 source:c:\users\antoi\documents\etude\la303186\2016-2017\s3t\modelisation\sudoku\solver\main.cpp
 	<iostream>
 
+1475483433 
+
 1475482426 source:c:\users\antoi\documents\etude\la303186\2016-2017\s3t\modelisation\sudoku\solver\sudoku.cpp
 	<iostream>
 	<stdlib.h>
@@ -9,9 +11,28 @@
 	"sudoku.h"
 	"Fsudoku.cpp"
 
+1475482426 pp"
+
 1475482425 c:\users\antoi\documents\etude\la303186\2016-2017\s3t\modelisation\sudoku\solver\sudoku.h
 
 1475483433 c:\users\antoi\documents\etude\la303186\2016-2017\s3t\modelisation\sudoku\solver\fsudoku.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"sudoku.h"
+
+1475481550 source:/home/ahlakazam/DepotSudoku/Sudoku-IUT/Solver/sudoku.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"sudoku.h"
+	"Fsudoku.cpp"
+
+1475480018 /home/ahlakazam/DepotSudoku/Sudoku-IUT/Solver/sudoku.h
+
+1475480018 /home/ahlakazam/DepotSudoku/Sudoku-IUT/Solver/Fsudoku.cpp
 	<iostream>
 	<stdlib.h>
 	<time.h>
