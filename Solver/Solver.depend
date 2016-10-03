@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1385320478 source:c:\users\antoi\documents\etude\la303186\2016-2017\s3t\modelisation\sudoku\solver\main.cpp
+	<iostream>
+
+1475482426 source:c:\users\antoi\documents\etude\la303186\2016-2017\s3t\modelisation\sudoku\solver\sudoku.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"sudoku.h"
+	"Fsudoku.cpp"
+
+1475482425 c:\users\antoi\documents\etude\la303186\2016-2017\s3t\modelisation\sudoku\solver\sudoku.h
+
+1475483433 c:\users\antoi\documents\etude\la303186\2016-2017\s3t\modelisation\sudoku\solver\fsudoku.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"sudoku.h"
+
